@@ -38,9 +38,12 @@ Key functionalities.
 <img width="50%" alt="epuck" src="https://github.com/user-attachments/assets/fe9f9965-b409-4161-9f1f-38fd64dc5b59">
 <br>
 
-## 5️⃣ Demo Video ![Watch the full demo](./main/Video_Demonstration.mp4)
+## 5️⃣ Demo Video 
 
 ![ezgif-89dda68fdede87](https://github.com/user-attachments/assets/7854adb6-3f6e-4539-8eda-ff3b3ac79bda)
+
+Click to watch the demo: ![Watch full demo](https://github.com/rnshalinda/Webots_MazeChallenge_Epuck_ColorNav/raw/refs/heads/main/Video_Demonstration.mp4)
+
 
 
 
