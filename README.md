@@ -42,7 +42,7 @@ Key functionalities.
 
 ![ezgif-89dda68fdede87](https://github.com/user-attachments/assets/7854adb6-3f6e-4539-8eda-ff3b3ac79bda)
 
-Click to watch the demo: ![Watch full demo](https://github.com/rnshalinda/Webots_MazeChallenge_Epuck_ColorNav/raw/refs/heads/main/Video_Demonstration.mp4)
+Click to ![Watch the full demo](https://github.com/rnshalinda/Webots_MazeChallenge_Epuck_ColorNav/raw/refs/heads/main/Video_Demonstration.mp4)
 
 
 
